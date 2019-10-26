@@ -9,9 +9,3 @@ gem 'awesome_print' git:'https://github.com/awesome-print'
 group :development do 
   gem "pry"
 end
-
-Hashie
-Sinatra
-Octokit
-Pry
-AwesomePrint
